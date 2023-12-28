@@ -1,0 +1,3 @@
+[submodule "ocr-nlp-flyer"]
+	path = ocr-nlp-flyer
+	url = git@github.com:Skeletonboi/ocr-nlp-flyer.git

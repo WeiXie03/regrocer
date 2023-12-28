@@ -1,0 +1,35 @@
+*.log
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore build output
+dist/
+
+# Ignore environment files
+src/environments/*.ts
+
+# Ignore compiled JavaScript files
+*.js
+
+# Ignore TypeScript declaration files
+*.d.ts
+
+# Ignore IDE and editor files
+.idea/
+.vscode/
+
+# Ignore Firebase configuration files
+firebase.json
+firebase-debug.log
+firebase-*.json
+
+# Ignore Ionic configuration files
+ionic.config.json
+ionic.project
+
+# Ignore Angular configuration files
+angular.json
+
+# Ignore asset files
+src/assets/
